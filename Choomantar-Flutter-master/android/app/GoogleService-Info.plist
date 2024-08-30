@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>422111954725-rnsph45hmlk5tql8shpd0l6qefnm4vf2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.422111954725-rnsph45hmlk5tql8shpd0l6qefnm4vf2</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>422111954725-p2fna4h34208itdn6qvkv9g26kp8uvml.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCC57dFl0zokB1GsLNmEej5Uxy5-x5AUWQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>422111954725</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.funtash.chumanter</string>
+	<key>PROJECT_ID</key>
+	<string>choomantar-76c1c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>choomantar-76c1c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:422111954725:ios:f601b36897819b6d56fccc</string>
+</dict>
+</plist>

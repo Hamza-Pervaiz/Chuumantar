@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "413733450168",
+    "project_id": "otptesting-60b99",
+    "storage_bucket": "otptesting-60b99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413733450168:android:b46aabcac6aa4078b35f4d",
+        "android_client_info": {
+          "package_name": "com.example.chumanter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJl73ZAzIlcLpzEWH4eGww6hSugzJUpPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

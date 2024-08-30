@@ -1,0 +1,35 @@
+import 'package:chumanter/configs/imports/import_helper.dart';
+
+class RichTextHelperCategory extends StatelessWidget {
+  RichTextHelperCategory({super.key, required this.firstText, required this.secondText});
+
+  String firstText;
+  String secondText;
+  @override
+  Widget build(BuildContext context) {
+    return RichText(
+      text: TextSpan(
+        children: [
+          TextSpan(
+            text: firstText,
+            style: TextStyle(
+              color: Colors.white, // Set the color for the text you're displaying
+              fontSize: MySize.size14,
+              fontFamily: AppConst.primaryFont,
+              fontWeight: FontWeight.w700,
+            ),
+          ),
+          TextSpan(
+            text: secondText,
+            style: TextStyle(
+              color: AppColors.secondaryColor, // Set the color for the data from the API
+              fontSize: MySize.size14,
+              fontFamily: AppConst.secondaryFont,
+              fontWeight: FontWeight.w400,
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}
